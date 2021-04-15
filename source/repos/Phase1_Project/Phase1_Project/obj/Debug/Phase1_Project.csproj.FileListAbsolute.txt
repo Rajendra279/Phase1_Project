@@ -1,0 +1,7 @@
+C:\Users\rajendra_kumar_vanka\source\repos\Phase1_Project\Phase1_Project\bin\Debug\Phase1_Project.exe.config
+C:\Users\rajendra_kumar_vanka\source\repos\Phase1_Project\Phase1_Project\bin\Debug\Phase1_Project.exe
+C:\Users\rajendra_kumar_vanka\source\repos\Phase1_Project\Phase1_Project\bin\Debug\Phase1_Project.pdb
+C:\Users\rajendra_kumar_vanka\source\repos\Phase1_Project\Phase1_Project\obj\Debug\Phase1_Project.csprojAssemblyReference.cache
+C:\Users\rajendra_kumar_vanka\source\repos\Phase1_Project\Phase1_Project\obj\Debug\Phase1_Project.csproj.CoreCompileInputs.cache
+C:\Users\rajendra_kumar_vanka\source\repos\Phase1_Project\Phase1_Project\obj\Debug\Phase1_Project.exe
+C:\Users\rajendra_kumar_vanka\source\repos\Phase1_Project\Phase1_Project\obj\Debug\Phase1_Project.pdb
